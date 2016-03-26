@@ -1,4 +1,4 @@
-# abaus
-Abacus - html code
+# abacus
+Abacus - HTML code
 
-you can see it also here: https://jsfiddle.net/sidanmor/msc17f40/9/
+You can see it also here: https://jsfiddle.net/sidanmor/msc17f40/9/
